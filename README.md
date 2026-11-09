@@ -31,6 +31,6 @@ To explore product and category performance, identify top-selling products, and 
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Product_Sales_Analysis.pdf)
 ## 🚀 How to View
 Download the `.pbix` file and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
